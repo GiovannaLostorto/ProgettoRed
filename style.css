@@ -15,12 +15,12 @@ flex-direction: column;
 .switzerland{
     width: 100%;
     height: 600px;
-    background-image: linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100%), url("./Red/media/switzerland-862870_1920.jpg");
+    background-image: linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 100%), url("./sfondo.jpg");
     background-size: cover;
     z-index: 2;
 }
 .grande-scritta{
-    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Nova Square', sans-serif;
     color: var(--colore-darkred);
     font-size: 7em;
     letter-spacing: 60px;
@@ -30,7 +30,7 @@ flex-direction: column;
 .whitemountains{
     width: 100%;
     height: 600px;
-    background-image: url(./Red/media/mountains2.png);
+    background-image: url(./mountains2.png);
     background-size: cover;
     z-index: 3;
 }
@@ -104,7 +104,7 @@ flex-direction: column;
     border: 2px solid darkred;
     position: absolute;
     bottom: -26px;
-    left: 62px;
+    left: 76px;
     background-color: #ececec;
 }
 .lorem-dolor{
