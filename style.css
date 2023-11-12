@@ -85,12 +85,12 @@ flex-direction: column;
 
 }
 .backcolor{
-    background-color: #ececec;
-    border-bottom: 4px solid darkred;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-radius: 0%;
+    background-color: #ececec !important;
+    border-bottom: 4px solid darkred !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none!important;
+    border-radius: 0% !important;
 }
 .text-secondary-emphasis{
     font-family: 'Rajdhani', sans-serif;
@@ -104,7 +104,7 @@ flex-direction: column;
     border: 2px solid darkred;
     position: absolute;
     bottom: -26px;
-    left: 76px;
+    left: 60px;
     background-color: #ececec;
 }
 .lorem-dolor{
@@ -234,3 +234,34 @@ font-family: 'Rajdhani', sans-serif; */
     font-style: oblique ;
 }
 /* fine lavoro Gio */
+/* inizio css Manuel */
+/* font-family: 'Nova Square', sans-serif;
+font-family: 'Rajdhani', sans-serif; */
+.titolo3{
+    Color: darkred;
+    font-family: 'Nova Square', sans-serif;
+   }
+   .card{
+       background-color: #ececec;
+       border: transparent;
+   }
+   .cardmanuel{
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+       border: 4px solid darkred;
+       width: 200px;
+       border-radius: 100%;
+       Color: darkred;
+       padding: 5px 5px 5px 5px ;
+       }
+      .card-title {
+       color: darkred;
+       font-family: 'Nova Square', sans-serif;
+      }
+      .colore{
+       background-color:#ececec;
+       }   
+   .card-text{
+       font-family: 'Rajdhani', sans-serif;
+   }
