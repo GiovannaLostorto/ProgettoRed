@@ -265,3 +265,11 @@ font-family: 'Rajdhani', sans-serif; */
    .card-text{
        font-family: 'Rajdhani', sans-serif;
    }
+
+   /* css giuseppe */
+   body{
+    background-color: darkred;
+}
+.altezza{
+    height: 80px;
+}
